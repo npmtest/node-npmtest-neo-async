@@ -1,4 +1,7 @@
-# test coverage for  [neo-async (v2.1.0)](https://github.com/suguru03/neo-async)  [![npm package](https://img.shields.io/npm/v/npmtest-neo-async.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-neo-async) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-neo-async.svg)](https://travis-ci.org/npmtest/node-npmtest-neo-async)
+# npmtest-neo-async
+
+#### test coverage for  [neo-async (v2.1.0)](https://github.com/suguru03/neo-async)  [![npm package](https://img.shields.io/npm/v/npmtest-neo-async.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-neo-async) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-neo-async.svg)](https://travis-ci.org/npmtest/node-npmtest-neo-async)
+
 #### Neo-Async is thought to be used as a drop-in replacement for Async, it almost fully covers its functionality and runs faster
 
 [![NPM](https://nodei.co/npm/neo-async.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/neo-async)
